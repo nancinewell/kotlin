@@ -18,13 +18,14 @@ From the consultation, I also learned that Kotlin tutorials are notorious for no
 # Useful Websites
 
 - [Kotlin](https://kotlinlang.org/docs/home.html)
-- [Android Studio Tutorial (2024 Edition)- Youtube] (https://www.youtube.com/watch?v=saKrGCWlJDs&t=57s)
-- [Normal Class vs Data Class in Kotlin- Youtube] (https://www.youtube.com/watch?v=LFa37U-0ggU&t=231s)
+- [Android Studio Tutorial (2024 Edition)](https://www.youtube.com/watch?v=saKrGCWlJDs&t=57s)
+- [Normal Class vs Data Class in Kotlin- Youtube](https://www.youtube.com/watch?v=LFa37U-0ggU&t=231s)
 - [Programiz](https://www.programiz.com/kotlin-programming/getting-started)
 - [Learners Lesson](https://www.learnerslesson.com/KOTLIN/Kotlin-Accessing-Set.htm)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/kotlin/kotlin-mutablesetof-method/)
 - [Baeldung](https://www.baeldung.com/kotlin/)
 - [Kotlin Bootcamp for Programmers](https://developer.android.com/codelabs/kotlin-bootcamp-basics#0)
+
 
 # Future Work
 
